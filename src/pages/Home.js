@@ -4,7 +4,7 @@ import Hero from '../components/Hero';
 import Main from '../components/Main';
 import News from '../components/News';
 import Shop from '../components/Shop';
-import Sponsor from '../components/Sponsor';
+// import Sponsor from '../components/Sponsor';
 
 const Home = () => {
   return (
@@ -14,7 +14,7 @@ const Home = () => {
       <News />
       <Galleri />
       <Shop />
-      <Sponsor />
+      {/* <Sponsor /> */}
     </div>
   )
 }
