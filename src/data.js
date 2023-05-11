@@ -551,4 +551,62 @@ export const heroNews = [
     date: "Rabu, 15 April 2022",
     desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
   },
-]
+];
+
+export const lineup = [
+  {
+    name: 'Markus',
+    np: 1,
+    position: 'GK'
+  },
+  {
+    name: 'Abanda',
+    np: 2,
+    position: 'CB'
+  },
+  {
+    name: 'Maman',
+    np: 3,
+    position: 'CB'
+  },
+  {
+    name: 'Toni',
+    np: 4,
+    position: 'LB'
+  },
+  {
+    name: 'Zulkifli',
+    np: 5,
+    position: 'RB'
+  },
+  {
+    name: 'Eka',
+    np: 8,
+    position: 'CM'
+  },
+  {
+    name: 'Hariono',
+    np: 6,
+    position: 'CM'
+  },
+  {
+    name: 'Satoshi',
+    np: 10,
+    position: 'CM'
+  },
+  {
+    name: 'Gilang',
+    np: 11,
+    position: 'RFW'
+  },
+  {
+    name: 'Gonzales',
+    np: 9,
+    position: 'CF'
+  },
+  {
+    name: 'Atep',
+    np: 7,
+    position: 'LFW'
+  },
+];

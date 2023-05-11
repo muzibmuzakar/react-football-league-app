@@ -5,7 +5,7 @@ import { product } from '../data';
 
 const Shop = () => {
   return (
-    <div className="container px-5 py-24 mx-auto">
+    <div className="container mx-auto mb-12">
         <div className='border-l-4 border-[#1C6DD0] mb-4 flex justify-between items-center'>
             <h1 className='text-[25px] font-medium px-2'>Shop</h1>
             {/* <p className='text-sm text-slate-700 flex items-center gap-x-2'>More News <BsArrowRight className='mt-[2px]' /></p> */}

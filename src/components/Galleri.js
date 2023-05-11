@@ -5,7 +5,7 @@ import { gallery } from '../data';
 
 const Galleri = () => {
   return (
-    <div className='container mx-auto mb-2'>
+    <div className='container mx-auto mb-12'>
         <div className='border-l-4 border-[#1C6DD0] mb-4 flex justify-between items-center'>
             <h1 className='text-[25px] font-medium px-2'>Gallery</h1>
             {/* <p className='text-sm text-slate-700 flex items-center gap-x-2'>More News <BsArrowRight className='mt-[2px]' /></p> */}

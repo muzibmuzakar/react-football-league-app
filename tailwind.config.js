@@ -179,6 +179,7 @@ module.exports = {
       'gradient-to-l': 'linear-gradient(to left, var(--tw-gradient-stops))',
       'gradient-to-tl': 'linear-gradient(to top left, var(--tw-gradient-stops))',
       hero: 'linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("/src/assets/img/bg.jpg")',
+      'lapang': 'url("/src/assets/img/lineup-pitch.jpg")',
     },
     backgroundOpacity: ({ theme }) => theme('opacity'),
     backgroundPosition: {

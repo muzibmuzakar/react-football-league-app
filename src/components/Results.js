@@ -18,7 +18,7 @@ const Results = () => {
       <div className='w-full lg:max-w-[850px]'>
         {results.map((result, index) => {
           return(    
-            <div className='h-[50px] mb-4 shadow-md flex flex-row items-center justify-between pl-6 gap-x-2' key={index}>
+            <a className='h-[50px] mb-4 shadow-md flex flex-row items-center justify-between pl-6 gap-x-2' key={index} href="/result/detail">
               {/* time */}
               <div className='hidden lg:flex flex-row items-center'>
                 <p className='pr-2 mr-2 border-r text-[12px] border-black flex items-center'>{ result.date }</p>
@@ -46,7 +46,7 @@ const Results = () => {
               <div className='w-[40px] h-full bg-[#1C6DD0] hover:bg-[#1f76e0] text-white cursor-pointer flex items-center'>
                 <MdKeyboardArrowRight className='text-[45px]'/>
               </div>
-            </div>
+            </a>
           );
         })}
         <div className='flex justify-end mt-4 mb-8'>

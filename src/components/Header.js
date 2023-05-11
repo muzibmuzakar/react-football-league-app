@@ -27,7 +27,7 @@ const Header = () => {
       <div className='container mx-auto'>
         <div className='flex justify-between items-center'>
           {/* logo */}
-          <a href={() => false} >
+          <a href="/" >
             <img className='h-[50px] lg:h-[70px]' src={Logo} alt='' />
           </a>
           {/* menu icons */}
