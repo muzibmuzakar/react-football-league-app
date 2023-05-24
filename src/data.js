@@ -556,56 +556,67 @@ export const heroNews = [
 export const lineup = [
   {
     name: 'Markus',
+    foto: Tami,
     np: 1,
     position: 'GK'
   },
   {
     name: 'Abanda',
+    foto: Bernardo,
     np: 2,
     position: 'CB'
   },
   {
     name: 'Maman',
+    foto: Bernardo,
     np: 3,
     position: 'CB'
   },
   {
     name: 'Toni',
+    foto: Bernardo,
     np: 4,
     position: 'LB'
   },
   {
     name: 'Zulkifli',
+    foto: Bernardo,
     np: 5,
     position: 'RB'
   },
   {
     name: 'Eka',
+    foto: Bernardo,
     np: 8,
     position: 'CM'
   },
   {
     name: 'Hariono',
+    foto: Bernardo,
     np: 6,
     position: 'CM'
   },
   {
     name: 'Satoshi',
+    foto: Bernardo,
     np: 10,
     position: 'CM'
   },
   {
     name: 'Gilang',
+    foto: Bernardo,
     np: 11,
     position: 'RFW'
   },
   {
     name: 'Gonzales',
+    foto: Bernardo,
     np: 9,
     position: 'CF'
   },
   {
     name: 'Atep',
+    foto: Bernardo,
     np: 7,
     position: 'LFW'
   },
